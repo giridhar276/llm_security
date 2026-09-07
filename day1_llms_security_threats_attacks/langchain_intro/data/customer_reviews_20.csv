@@ -1,0 +1,21 @@
+review_id,customer_name,product,region,review_text
+1,Aarav,Cloud Portal,South,The dashboard is fast and easy to understand.
+2,Meera,Mobile App,West,Login fails repeatedly after the latest update.
+3,Vikram,Analytics,North,Reports are accurate but take time to load.
+4,Ananya,Support,South,The engineer solved my issue within minutes.
+5,Rohan,Billing,East,I was charged twice and received no refund.
+6,Isha,Cloud Portal,West,The interface looks clean and works well.
+7,Kabir,Mobile App,North,"The app works, but notifications arrive late."
+8,Diya,Analytics,South,Excel export is extremely helpful.
+9,Arjun,Support,East,Nobody responded to my critical ticket.
+10,Saanvi,Billing,West,The invoice is clear and payment was simple.
+11,Reyansh,Cloud Portal,North,Performance is average during peak hours.
+12,Aadhya,Mobile App,South,The app crashes whenever I upload a photo.
+13,Krishna,Analytics,East,Forecasting saved our team several hours.
+14,Myra,Support,West,The response was polite but did not solve the issue.
+15,Aditya,Billing,North,Subscription renewal completed smoothly.
+16,Sara,Cloud Portal,South,Search results are sometimes irrelevant.
+17,Vivaan,Mobile App,East,Excellent design and smooth navigation.
+18,Nisha,Analytics,West,I need more documentation before judging it.
+19,Rahul,Support,North,The agent was knowledgeable and clear.
+20,Kavya,Billing,South,The refund process is confusing and slow.

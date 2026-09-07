@@ -1,0 +1,10 @@
+Project Phoenix Weekly Meeting - 6 September 2026
+
+Participants: Anita, Ravi, Meera and John
+Decision: Run the customer-support pilot in Hyderabad before national rollout.
+Anita will validate the training dataset by 10 September 2026.
+Ravi will deploy the dashboard to the test environment by 12 September 2026.
+Meera will collect feedback from 20 pilot users by 18 September 2026.
+John will confirm API access with the security team. No due date was agreed.
+Risk: API approval may delay the test deployment.
+Next meeting: 20 September 2026 at 3:00 PM IST.
