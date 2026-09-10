@@ -1,0 +1,7 @@
+banking_security:
+  id: banking_security.test.v1
+  description: Banking security evaluation
+  metrics: [accuracy]
+  class: evals.elsuite.basic.match:Match
+  args:
+    samples_jsonl: banking_evals.jsonl

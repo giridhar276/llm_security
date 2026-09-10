@@ -1,0 +1,4 @@
+langchain/gpt-4.1-mini:
+  class: langchain_completion_fn:LangChainCompletionFn
+  args:
+    model: gpt-4.1-mini
